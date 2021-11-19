@@ -1,3 +1,2 @@
 File 1
 Adding sample line 1
-Adding sample line 2
